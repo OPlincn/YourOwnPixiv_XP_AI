@@ -65,4 +65,4 @@ You could generate your own image Hotmap with the file `other/yolo_cam/generate_
 
 
 
-The baseline training dataset基准的图片训练集很快就会公开下载,您可以训练自己的模型! of images will be publicly available for download soon, so you can train your own models!
+The baseline training dataset of images will be publicly available for download soon, so you can train your own models!
